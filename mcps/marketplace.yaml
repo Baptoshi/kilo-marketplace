@@ -4167,9 +4167,9 @@ items:
           }
   - id: silicon-floor
     name: Silicon Floor
-    description: Answers who owns AI and semiconductor stocks, what insiders bought or sold and how fast companies grow,
-      from SEC filings and FINRA data, with every figure dated and linked to its source. About 220 companies; free and
-      read-only, no API key or account.
+    description: "Follow the AI stock market from your editor: 220 AI and semiconductor stocks, their news, the sector's
+      market cap, dividends, and who owns each company and who's buying or selling, every SEC figure dated and linked to
+      its filing. Free and read-only, no API key or account."
     author: Silicon Floor
     url: https://siliconfloor.com/docs/mcp
     category: business
