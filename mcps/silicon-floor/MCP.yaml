@@ -2,8 +2,8 @@ id: silicon-floor
 name: Silicon Floor
 description: >-
   Follow the AI stock market from your editor: 220 AI and semiconductor stocks, their news, the sector's market cap,
-  dividends, and who owns each company and who's buying or selling, every SEC figure dated and linked to its filing.
-  Free and read-only, no API key or account.
+  dividends, who owns each company, and what insiders and hedge funds bought and sold each quarter, every SEC figure
+  dated and linked to its filing. Free and read-only, no API key or account.
 author: Silicon Floor
 url: https://siliconfloor.com/docs/mcp
 category: business
